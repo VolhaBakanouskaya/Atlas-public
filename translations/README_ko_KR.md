@@ -102,5 +102,5 @@ Atlas는 Windows Ameliorated Team과 협력하여 사용자에게 더 안전하�
 ## ⚠️ 면책 조항
 https://github.com/Atlas-OS/Atlas/tree/readme-update#%EF%B8%8F-disclaimer
 
-## 번역 기여자
+## Translation Contributors (번역 기여자)
 [앙시모사우루스](https://github.com/Angsimosaurus)
